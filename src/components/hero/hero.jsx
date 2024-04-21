@@ -9,7 +9,7 @@ const hero = () => {
             <div className="space-y-2 grid justify-items-center sm:justify-items-start">
               <p className="uppercase">Hello</p>
               <p className="text-4xl md:text-6xl font-bold text-black/80 dark:text-white">
-                I'm Michle Smith
+                I'm Hamid Eghbali
               </p>
               <p className="text-3xl text-gray-700 dark:text-white">
                 Lorem ipsum dolor
