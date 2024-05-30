@@ -1,4 +1,14 @@
+# Home Rentals
+
+![alt text](image.png)
+
+![alt text](image1.png)
+
+![alt text](image2.png)
+
+
 # React + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
